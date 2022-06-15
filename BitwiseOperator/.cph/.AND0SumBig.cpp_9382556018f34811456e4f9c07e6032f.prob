@@ -1,0 +1,1 @@
+{"name":"Local: AND0SumBig","url":"f:\\CP Synapes\\BitwiseOperator\\AND0SumBig.cpp","tests":[{"id":1653677068706,"input":"2\n2 2\n100000 20","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\CP Synapes\\BitwiseOperator\\AND0SumBig.cpp","group":"local","local":true}
